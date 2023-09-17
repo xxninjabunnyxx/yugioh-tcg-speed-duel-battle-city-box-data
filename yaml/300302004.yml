@@ -1,0 +1,30 @@
+---
+id: 300302004
+name: Digging for Gold
+type: Skill Card
+frameType: skill
+desc: Activate this Skill during your Main Phase. Once per Duel, you can banish 3
+  cards from your GY, then draw 1 card.
+race: David
+card_sets:
+- set_name: 'Speed Duel: Battle City Box'
+  set_code: SBCB-ENS20
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.11'
+- set_name: 'Speed Duel: Trials of the Kingdom Sneak Peek participation cards'
+  set_code: SBTK-ENSP9
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0.00'
+card_images:
+- id: 300302004
+  image_url: https://images.ygoprodeck.com/images/cards/300302004.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/300302004.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/300302004.jpg
+card_prices:
+- cardmarket_price: '0.08'
+  tcgplayer_price: '0.24'
+  ebay_price: '0.99'
+  amazon_price: '4.74'
+  coolstuffinc_price: '0.39'
